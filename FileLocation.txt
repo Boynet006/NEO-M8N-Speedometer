@@ -1,0 +1,3 @@
+HardwareSerial.h Location
+
+C:\Users\"Your username"\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.6\cores\arduino
